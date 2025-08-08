@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "examples/draft.md",
+                "file": "posts/markdown.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "draft"
+              "title": "markdown"
             }
           }
         ]
@@ -40,13 +40,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "examples/draft.md",
+                "file": "posts/markdown.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of draft"
+              "title": "Outline of markdown"
             }
           }
         ]
@@ -173,9 +173,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "c4836d8a8b7a6185",
+  "active": "1f42d2a3da9fc634",
   "lastOpenFiles": [
     "posts/feels-good.md",
+    "posts/markdown.md",
     "examples/draft.md",
     "spec/use.md",
     "spec/about.md",
@@ -189,7 +190,6 @@
     "examples/template",
     "examples/guide/cover.jpeg",
     "examples/expressive-code.md",
-    "examples/markdown.md",
     "examples/markdown-extended.md",
     "examples/video.md",
     "Untitled.md",
