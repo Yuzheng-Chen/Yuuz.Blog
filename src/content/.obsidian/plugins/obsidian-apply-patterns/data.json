@@ -1,0 +1,27 @@
+{
+  "patterns": [
+    {
+      "name": "Absolute Img Path",
+      "rules": [
+        {
+          "from": "\\(imgs/",
+          "to": "(./imgs/",
+          "caseInsensitive": false,
+          "global": true,
+          "multiline": false,
+          "sticky": false,
+          "disabled": false
+        }
+      ],
+      "collapsed": false,
+      "cursorRegexStart": "$",
+      "cursorRegexEnd": "^"
+    }
+  ],
+  "filterString": "",
+  "commandFilterString": "",
+  "commands": [],
+  "apiVersion": 6,
+  "defaultCursorRegexEnd": "^",
+  "defaultCursorRegexStart": "$"
+}

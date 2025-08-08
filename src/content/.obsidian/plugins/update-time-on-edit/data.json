@@ -1,0 +1,31 @@
+{
+  "dateFormat": "yyyy-MM-dd HH:mm:ss",
+  "enableCreateTime": false,
+  "headerUpdated": "updated",
+  "headerCreated": "date",
+  "minMinutesBetweenSaves": 30,
+  "ignoreGlobalFolder": [
+    "_data",
+    "friends"
+  ],
+  "ignoreCreatedFolder": [
+    "_data",
+    "friends"
+  ],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "template/Default Front-matter.md": "c95661336ba01ff994211cd3d839372d34d93a5281811ba7b2b2de12e6536125",
+    "_posts/hello-world.md": "2a2fd4bc12539d11f04f4270481699eccfd019e1bd7b26a0f98fd3ca648a7652",
+    "drafts/Anime API Collection.md": "b5ecb11ed4d642ac03680b98b6d04ffecfe583561024df955a0725cb8a21ea56",
+    "samples/computer-science/note/theme-shoka-doc/special.md": "617703e190232c472be531e35c996af473cbe392d214efa1f2f2c8b4dc2dd0b9",
+    "_posts/Whispers/in-the-quiet-moments.md": "af15d48703e00964cfe8f07fa81e4c0657855b2a07c8e772302da495181830e7",
+    "_posts/Tales/it-was-a-dream.md": "b52e9fcd542e230446f93e75a1b8df77e9d9835a564e2679f7a8087dd7ae52a7",
+    "_posts/Tales/reflections-in-the-mirror.md": "e307208adcaff7a96b2c19560312efe3d7dbaa81dfd6b8db2b6e1b97612d49b5",
+    "_posts/中文/Book Notes/《审美与人的自由》读书笔记.md": "7fb9e5f3fe0d6eea09233644d3e2ecefe12d40c2bb85d9f20a3f1e3f62f7d9e5",
+    "samples/elements.md": "138b1c107c0c70b9dfc4d2e54cf93153a6a5baaf58693de5caa81b1cd75b3e58",
+    "_posts/Musics/using-scales-to-build-harmony-advanced-concepts-in-music-theory.md": "a66d32061ce8455aaf7e196125326a3b4bd81e68720a67a26172ddb47b5afd7e",
+    "_posts/Knowledge/HCI/Research/how-to-read-a-research-paper.md": "89f111825051f1ce76a923c78eaec8053f95f7027788f9883efe8b57423b6650",
+    "_posts/Knowledge/HCI/fitts-law.md": "045d1dfb8f445dcdaebf951a831412dd2e4a29faa54b3b0a2799232fd79e3f21",
+    "posts/markdown.md": "922083ec9a2e708454174c1540309df4441cce44b9c7f1e062dd0e938784ae93"
+  }
+}

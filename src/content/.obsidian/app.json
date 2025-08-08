@@ -1,0 +1,13 @@
+{
+  "newLinkFormat": "relative",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "posts",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./imgs",
+  "userIgnoreFilters": [
+    "_data/"
+  ],
+  "livePreview": true,
+  "defaultViewMode": "source"
+}
