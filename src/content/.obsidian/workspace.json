@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spec/use.md",
+                "file": "posts/feels-good.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "use"
+              "title": "feels-good"
             }
           }
         ]
@@ -40,13 +40,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spec/use.md",
+                "file": "posts/feels-good.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of use"
+              "title": "Outline of feels-good"
             }
           }
         ]
@@ -175,9 +175,9 @@
   },
   "active": "1f42d2a3da9fc634",
   "lastOpenFiles": [
-    "spec/about.md",
     "spec/use.md",
-    "posts/好了！.md",
+    "spec/about.md",
+    "posts/feels-good.md",
     "posts/imgs/20250808-1.jpeg",
     "posts/imgs/Pasted image 20250808234952.png",
     "posts/imgs/9937caf7-6559-4aca-a067-e861e983918f.png",
