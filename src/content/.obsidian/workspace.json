@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/draft.md",
+                "file": "examples/draft.md",
                 "mode": "source",
                 "source": false
               },
@@ -40,7 +40,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/draft.md",
+                "file": "examples/draft.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -173,10 +173,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "1f42d2a3da9fc634",
+  "active": "c4836d8a8b7a6185",
   "lastOpenFiles": [
     "posts/feels-good.md",
-    "posts/draft.md",
+    "examples/draft.md",
     "spec/use.md",
     "spec/about.md",
     "posts/imgs/20250808-1.jpeg",

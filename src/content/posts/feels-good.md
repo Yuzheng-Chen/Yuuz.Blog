@@ -8,7 +8,7 @@ tags:
   - Fuwari
   - Customization
 category: 日志
-draft: true
+draft: false
 description: 总算是好了！
 image: ./imgs/20250808-1.jpeg
 ---
