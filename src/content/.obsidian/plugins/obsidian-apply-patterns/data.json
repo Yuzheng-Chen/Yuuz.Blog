@@ -4,8 +4,8 @@
       "name": "Absolute Img Path",
       "rules": [
         {
-          "from": "\\(imgs/",
-          "to": "(./imgs/",
+          "from": "\"imgs/",
+          "to": "\"./imgs/",
           "caseInsensitive": false,
           "global": true,
           "multiline": false,

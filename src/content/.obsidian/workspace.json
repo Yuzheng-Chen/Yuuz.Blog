@@ -6,6 +6,7 @@
       {
         "id": "28996e05d7138a12",
         "type": "tabs",
+        "dimension": 55.415162454873645,
         "children": [
           {
             "id": "1f42d2a3da9fc634",
@@ -13,12 +14,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "examples/markdown.md",
+                "file": "posts/geocaching-is-so-fun.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "markdown"
+              "title": "geocaching-is-so-fun"
+            }
+          }
+        ]
+      },
+      {
+        "id": "44f89d6c960dbedf",
+        "type": "tabs",
+        "dimension": 44.584837545126355,
+        "children": [
+          {
+            "id": "70828dc4b1e072cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/geocaching-is-so-fun.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "geocaching-is-so-fun"
             }
           }
         ]
@@ -40,13 +62,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "examples/markdown.md",
+                "file": "posts/geocaching-is-so-fun.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of markdown"
+              "title": "Outline of geocaching-is-so-fun"
             }
           }
         ]
@@ -175,14 +197,20 @@
   },
   "active": "1f42d2a3da9fc634",
   "lastOpenFiles": [
+    "posts/imgs/20250809-1.webp",
+    "posts/imgs/20250809-1.jpeg",
+    "posts/geocaching-is-so-fun.md",
+    "posts/imgs/20250809-3.jpeg",
+    "posts/imgs/20250808-1.jpeg",
+    "posts/imgs/20250809-2.jpeg",
+    "posts/imgs/Pasted image 20250809021806.png",
+    "spec/about.md",
+    "posts/imgs/content.jpeg",
+    "examples/markdown.md",
     "examples/video.md",
     "examples/markdown-extended.md",
-    "examples/markdown.md",
-    "posts/feels-good.md",
     "examples/draft.md",
     "spec/use.md",
-    "spec/about.md",
-    "posts/imgs/20250808-1.jpeg",
     "posts/imgs/Pasted image 20250808234952.png",
     "posts/imgs/9937caf7-6559-4aca-a067-e861e983918f.png",
     "posts/imgs",
@@ -194,15 +222,9 @@
     "examples/expressive-code.md",
     "Untitled.md",
     "posts",
-    "examples/imgs/20250808-1.png",
     "examples/imgs",
-    "posts/markdown-1.png",
-    "posts/imgs/20250808-2.png",
-    "examples/imgs/20250808-1.png",
-    "assets/imgs/20250808-1.png",
     "assets/imgs",
     "assets",
-    "assets/imgs/20250808-1.png",
     "_posts/Knowledge/HCI/Research/how-to-read-a-research-paper.md",
     "_posts/Knowledge/HCI/fitts-law.md",
     "_posts/中文/Book Notes/《审美与人的自由》读书笔记.md",
@@ -219,7 +241,6 @@
     "assets/imgs/20241025-3.png.md",
     "_posts/hello-world.md",
     "drafts/Anime API Collection.md",
-    "samples/images.md",
-    "samples/excerpts.md"
+    "samples/images.md"
   ]
 }
