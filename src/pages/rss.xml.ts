@@ -35,7 +35,7 @@ export async function GET(context: APIContext) {
 			// 如果 frontmatter 有 image，就加到正文最前
 			let finalContent = parser.render(cleanedContent);
 			if (post.data.image) {
-				finalContent = `<p><img src="${post.data.image}" alt=""/></p>\n${finalContent}`;
+				finalContent = `<p><img src=".${post.data.image}" alt=""/></p>\n${finalContent}`;
 			}
 
 			return {
