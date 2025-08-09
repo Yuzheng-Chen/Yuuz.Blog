@@ -2,11 +2,8 @@
 title: Geocaching 太好玩了！
 published: 2025-08-08
 tags:
-  - Markdown
-  - Blogging
-  - Demo
-  - Fuwari
-  - Customization
+  - Geocaching
+  - 好玩的东西
 category: 日志
 draft: false
 description: 快来一起 Geocaching 乱逛世界角落

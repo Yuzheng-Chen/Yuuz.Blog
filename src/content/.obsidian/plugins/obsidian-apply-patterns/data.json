@@ -5,7 +5,7 @@
       "rules": [
         {
           "from": "\"imgs/",
-          "to": "\"./imgs/",
+          "to": "\"../imgs/",
           "caseInsensitive": false,
           "global": true,
           "multiline": false,
