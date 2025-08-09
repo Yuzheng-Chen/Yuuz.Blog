@@ -1,13 +1,6 @@
 import { siteConfig } from "../config";
 import type I18nKey from "./i18nKey";
 import { en } from "./languages/en";
-import { es } from "./languages/es";
-import { id } from "./languages/id";
-import { ja } from "./languages/ja";
-import { ko } from "./languages/ko";
-import { th } from "./languages/th";
-import { tr } from "./languages/tr";
-import { vi } from "./languages/vi";
 import { zh_CN } from "./languages/zh_CN";
 import { zh_TW } from "./languages/zh_TW";
 
