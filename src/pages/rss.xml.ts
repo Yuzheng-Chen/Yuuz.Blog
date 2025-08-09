@@ -6,7 +6,11 @@ import MarkdownIt from "markdown-it";
 import sanitizeHtml from "sanitize-html";
 import { siteConfig } from "@/config";
 
-const parser = new MarkdownIt();
+const parser = new MarkdownIt({
+	html: true, // ✅ 允许解析原始 HTML
+	linkify: true,
+	typographer: true,
+});
 
 function stripInvalidXmlChars(str: string): string {
 	return str.replace(
@@ -27,6 +31,7 @@ export async function GET(context: APIContext) {
 			const content =
 				typeof post.body === "string" ? post.body : String(post.body || "");
 			const cleanedContent = stripInvalidXmlChars(content);
+			console.log(sanitizeHtml(parser.render(cleanedContent)));
 			return {
 				title: post.data.title,
 				pubDate: post.data.published,
