@@ -59,12 +59,12 @@ Geocaching 最妙的地方在于，它能带你去到“**本地人私藏的宝�
 
 <div class="flex gap-4">
   <figure>
-    <img src="../imgs/20250809-2.jpeg" alt="Geocaching 的小盒子" width="400">
+    <img src="../imgs/20250809-2.jpeg" alt="丹麦咖啡店的 Geocaching" width="400">
     <figcaption>丹麦咖啡店的 Geocaching</figcaption>
   </figure>
 
   <figure>
-    <img src="../imgs/20250809-4.jpeg" alt="Geocaching 的大宝藏盒" width="400">
+    <img src="../imgs/20250809-4.jpeg" alt="丹麦咖啡店的 Geocaching" width="400">
   </figure>
 </div>
 
@@ -79,7 +79,7 @@ Geocaching 最妙的地方在于，它能带你去到“**本地人私藏的宝�
 而且，日本的 Geocaching 不只是在城市里才有哦。例如我之前去箱根的[早云山](https://zh.wikipedia.org/zh-hans/%E6%97%A9%E9%9B%B2%E5%B1%B1%E7%AB%99)的时候也找到过。可能是因为日本人本身就很喜欢“收集类”的游戏，比如宝可梦（笑），所以这种现实版的“捉宝”自然也很受欢迎。
 
   <figure>
-    <img src="../imgs/20250809-3.jpeg" alt="Geocaching 的小盒子" width="300">
+    <img src="../imgs/20250809-3.jpeg" alt="装满的宝藏的大阪 Geocaching" width="300">
     <figcaption>装满的宝藏的大阪 Geocaching</figcaption>
   </figure>
 
