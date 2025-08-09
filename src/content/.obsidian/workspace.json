@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/markdown.md",
+                "file": "examples/markdown.md",
                 "mode": "source",
                 "source": false
               },
@@ -40,7 +40,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/markdown.md",
+                "file": "examples/markdown.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -175,8 +175,10 @@
   },
   "active": "1f42d2a3da9fc634",
   "lastOpenFiles": [
+    "examples/video.md",
+    "examples/markdown-extended.md",
+    "examples/markdown.md",
     "posts/feels-good.md",
-    "posts/markdown.md",
     "examples/draft.md",
     "spec/use.md",
     "spec/about.md",
@@ -190,8 +192,6 @@
     "examples/template",
     "examples/guide/cover.jpeg",
     "examples/expressive-code.md",
-    "examples/markdown-extended.md",
-    "examples/video.md",
     "Untitled.md",
     "posts",
     "examples/imgs/20250808-1.png",
