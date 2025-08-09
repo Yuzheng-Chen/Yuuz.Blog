@@ -175,10 +175,11 @@
   },
   "active": "1f42d2a3da9fc634",
   "lastOpenFiles": [
-    "posts/fa-paper.md",
-    "posts/geocaching-is-so-fun.md",
+    "spec/imgs",
     "posts/minecraft-ctm-map-recommend.md",
     "spec/about.md",
+    "posts/fa-paper.md",
+    "posts/geocaching-is-so-fun.md",
     "spec/use.md",
     "posts/imgs/20250809-6.jpeg",
     "posts/imgs/20250809-7.jpeg",
@@ -219,7 +220,6 @@
     "_posts/Tales/it-was-a-dream.md",
     "template/Default Front-matter.md",
     "assets/imgs/20241025-3.png.md",
-    "_posts/hello-world.md",
-    "drafts/Anime API Collection.md"
+    "_posts/hello-world.md"
   ]
 }
