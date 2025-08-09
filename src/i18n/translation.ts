@@ -11,24 +11,12 @@ export type Translation = {
 const defaultTranslation = en;
 
 const map: { [key: string]: Translation } = {
-	es: es,
 	en: en,
 	en_us: en,
 	en_gb: en,
 	en_au: en,
 	zh_cn: zh_CN,
 	zh_tw: zh_TW,
-	ja: ja,
-	ja_jp: ja,
-	ko: ko,
-	ko_kr: ko,
-	th: th,
-	th_th: th,
-	vi: vi,
-	vi_vn: vi,
-	id: id,
-	tr: tr,
-	tr_tr: tr,
 };
 
 export function getTranslation(lang: string): Translation {
