@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/fa-paper.md",
+                "file": "posts/geocaching-is-so-fun.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "fa-paper"
+              "title": "geocaching-is-so-fun"
             }
           }
         ]
@@ -40,13 +40,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/fa-paper.md",
+                "file": "posts/geocaching-is-so-fun.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of fa-paper"
+              "title": "Outline of geocaching-is-so-fun"
             }
           }
         ]
@@ -173,12 +173,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "c4836d8a8b7a6185",
+  "active": "1f42d2a3da9fc634",
   "lastOpenFiles": [
-    "posts/geocaching-is-so-fun.md",
+    "spec/about.md",
     "spec/use.md",
     "posts/fa-paper.md",
-    "spec/about.md",
+    "posts/geocaching-is-so-fun.md",
     "posts/imgs/20250809-6.jpeg",
     "posts/imgs/20250809-7.jpeg",
     "posts/imgs/Pasted image 20250809142145.png",

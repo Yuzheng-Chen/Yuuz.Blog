@@ -1,9 +1,12 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+我是 **Yuzheng Chen（陈宇正）**。欢迎来到我的博客，这里会随手记录一些乱七八糟的事情，希望你看得开心。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+我的个人学术网站 👉 [Yuzheng Chen | Research in HCI](https://yuzheng-chen.github.io/)
+
+**最近的状态**
+- 住在英国兰卡斯特，马上硕士毕业。比起伦敦、曼彻斯特这样的大城市，我更喜欢兰卡斯特这种乡下地方的生活氛围。
+- 忙着写硕士论文。有空的时候也在随便看看工作（等论文交完就会开始全力找）。
+- 最近一年没有控制碳水，胖了 10 斤，目前 65 kg。
+- 想要不熬夜，想要多运动……但目前还停留在“想要”阶段。
+

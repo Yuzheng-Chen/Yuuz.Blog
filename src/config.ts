@@ -45,18 +45,18 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Archive,
 		LinkPreset.About,
 		LinkPreset.Use,
-		{
-			name: "GitHub",
-			url: "https://github.com/Yuzheng-Chen", // Internal links should not include the base path, as it is automatically added
-			external: true, // Show an external link icon and will open in a new tab
-		},
+		//{
+		//	name: "GitHub",
+		//	url: "https://github.com/Yuzheng-Chen", // Internal links should not include the base path, as it is automatically added
+		//	external: true, // Show an external link icon and will open in a new tab
+		//},
 	],
 };
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar_cat.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "Yuuz",
-	bio: "我的个人博客",
+	name: "Yuuz (Yuzheng Chen)",
+	bio: "人机交互（HCI）硕士，古典、爵士钢琴爱好者，目前居住在英国。",
 	links: [
 		{
 			name: "Twitter",
