@@ -31,14 +31,20 @@ export async function GET(context: APIContext) {
 			const content =
 				typeof post.body === "string" ? post.body : String(post.body || "");
 			const cleanedContent = stripInvalidXmlChars(content);
-			console.log(sanitizeHtml(parser.render(cleanedContent)));
+
+			// 如果 frontmatter 有 image，就加到正文最前
+			let finalContent = parser.render(cleanedContent);
+			if (post.data.image) {
+				finalContent = `<p><img src="${post.data.image}" alt=""/></p>\n${finalContent}`;
+			}
+
 			return {
 				title: post.data.title,
 				pubDate: post.data.published,
 				description: post.data.description || "",
 				link: url(`/posts/${post.slug}/`),
-				content: sanitizeHtml(parser.render(cleanedContent), {
-					allowedTags: false, // sanitizeHtml.defaults.allowedTags.concat(["img"])
+				content: sanitizeHtml(finalContent, {
+					allowedTags: false,
 					allowedAttributes: false,
 				}),
 			};
