@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/fa-paper.md",
+                "file": "spec/about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fa-paper"
+              "title": "about"
             }
           }
         ]
@@ -72,13 +72,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/fa-paper.md",
+                "file": "spec/about.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of fa-paper"
+              "title": "Outline of about"
             }
           }
         ]
@@ -207,8 +207,8 @@
   },
   "active": "1f42d2a3da9fc634",
   "lastOpenFiles": [
-    "posts/geocaching-is-so-fun.md",
     "posts/fa-paper.md",
+    "posts/geocaching-is-so-fun.md",
     "posts/imgs/20250809-6.jpeg",
     "posts/imgs/20250809-7.jpeg",
     "posts/imgs/Pasted image 20250809142145.png",
