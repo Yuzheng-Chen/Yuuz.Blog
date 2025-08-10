@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spec/about.md",
+                "file": "examples/markdown-extended.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "markdown-extended"
             }
           }
         ]
@@ -40,13 +40,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spec/about.md",
+                "file": "examples/markdown-extended.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of about"
+              "title": "Outline of markdown-extended"
             }
           }
         ]
@@ -173,13 +173,20 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "1f42d2a3da9fc634",
+  "active": "c4836d8a8b7a6185",
   "lastOpenFiles": [
-    "spec/imgs",
     "posts/minecraft-ctm-map-recommend.md",
-    "spec/about.md",
-    "posts/fa-paper.md",
+    "examples/markdown.md",
+    "examples/template/Template with Cover.md",
+    "examples/expressive-code.md",
+    "examples/video.md",
+    "examples/markdown-extended.md",
+    "examples/draft.md",
     "posts/geocaching-is-so-fun.md",
+    "posts/imgs/cover.jpeg",
+    "posts/fa-paper.md",
+    "spec/about.md",
+    "spec/imgs",
     "spec/use.md",
     "posts/imgs/20250809-6.jpeg",
     "posts/imgs/20250809-7.jpeg",
@@ -189,18 +196,11 @@
     "posts/imgs/20250809-4.jpeg",
     "posts/imgs/20250809-1.webp",
     "posts/imgs/20250809-1.jpeg",
-    "posts/imgs/20250808-1.jpeg",
     "posts/imgs/20250809-2.jpeg",
-    "examples/markdown.md",
-    "examples/video.md",
-    "examples/markdown-extended.md",
-    "examples/draft.md",
     "posts/imgs",
     "posts/covers",
-    "examples/template/Template with Cover.md",
     "examples/guide/index.md",
     "examples/template",
-    "examples/expressive-code.md",
     "Untitled.md",
     "posts",
     "examples/imgs",
@@ -215,7 +215,6 @@
     "samples/elements.md",
     "_posts/中文/Book Notes",
     "_posts/Whispers/in-the-quiet-moments.md",
-    "_posts/Knowledge",
     "_posts/Tales/reflections-in-the-mirror.md",
     "_posts/Tales/it-was-a-dream.md",
     "template/Default Front-matter.md",
