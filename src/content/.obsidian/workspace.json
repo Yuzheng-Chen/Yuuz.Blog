@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "examples/markdown-extended.md",
+                "file": "posts/fa-paper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "markdown-extended"
+              "title": "fa-paper"
             }
           }
         ]
@@ -40,13 +40,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "examples/markdown-extended.md",
+                "file": "posts/fa-paper.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of markdown-extended"
+              "title": "Outline of fa-paper"
             }
           }
         ]
@@ -173,21 +173,21 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "c4836d8a8b7a6185",
+  "active": "1f42d2a3da9fc634",
   "lastOpenFiles": [
     "posts/minecraft-ctm-map-recommend.md",
+    "posts/markdown-extended.md",
+    "posts/geocaching-is-so-fun.md",
+    "spec/use.md",
+    "spec/about.md",
+    "posts/fa-paper.md",
     "examples/markdown.md",
     "examples/template/Template with Cover.md",
     "examples/expressive-code.md",
     "examples/video.md",
-    "examples/markdown-extended.md",
     "examples/draft.md",
-    "posts/geocaching-is-so-fun.md",
     "posts/imgs/cover.jpeg",
-    "posts/fa-paper.md",
-    "spec/about.md",
     "spec/imgs",
-    "spec/use.md",
     "posts/imgs/20250809-6.jpeg",
     "posts/imgs/20250809-7.jpeg",
     "posts/imgs/Pasted image 20250809142145.png",

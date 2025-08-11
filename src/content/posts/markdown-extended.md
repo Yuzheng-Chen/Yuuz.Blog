@@ -78,6 +78,9 @@ This is a note with a custom title.
 
 ### GitHub Syntax
 
+> [!NOTE]
+> The GitHub syntax is also supported.
+
 > [!TIP]
 > [The GitHub syntax](https://github.com/orgs/community/discussions/16925) is also supported.
 
