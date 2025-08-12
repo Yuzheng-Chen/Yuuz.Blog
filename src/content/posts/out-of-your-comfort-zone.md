@@ -141,3 +141,12 @@ AI 时代的舒适圈 1. AI 时代下的互联网（AI 降低创作门槛，生�
 现实常常不是——更贴近 **“低谷–高原”模型** ：**长时间的平缓积累（高原）+ 少数关键突破（飞跃），且每次飞跃前通常要经历一个“低谷”**。
 
 这套模型出自 Gerald M. Weinberg 的《成为技术领导者》。他用**玩弹子球**练习做了记录：
+
+[ChatGPT](https://chatgpt.com/g/g-yP7nvstO8-story/c/689a475c-ff6c-8329-b7db-03b6776854ec)
+[ChatGPT](https://chatgpt.com/g/g-PWizFQk8C-blog-expert-seo-blogs-made-easy/c/689a9061-7cf0-8321-a41e-d1004bfb989a)
+[Claude](https://claude.ai/chat/27babd22-bc84-477a-9651-2a037d60c299)
+[跳脫舒適圈 | Wiwi.Blog](https://wiwi.blog/blog/comfort-zone/)
+[AI 提升的是下限，而不是上限 | 宝玉的分享](https://baoyu.io/translations/ai-is-a-floor-raiser-not-a-ceiling-raiser)
+[学习与人生——700篇博文之感悟 @ 编程随想的博客](https://program-think.blogspot.com/2020/12/Study-and-Life.html)
+[时间与人生——跨入本世纪20年代的随想 @ 编程随想的博客](https://program-think.blogspot.com/2019/12/Time-and-Life.html?q=20%E5%B9%B4%E4%BB%A3&scope=all)
+[如何【系统性学习】——从“媒介形态”聊到“DIKW 模型” @ 编程随想的博客](https://program-think.blogspot.com/2019/10/Systematic-Learning.html)
