@@ -1,6 +1,6 @@
 ---
-title: Template Post
-published: 2025-08-10
+title: 舒适圈陷阱
+published: 2025-08-13
 description: 什么是真正需要走出的舒适圈
 image: ./imgs/20250811-4.jpeg
 tags:
