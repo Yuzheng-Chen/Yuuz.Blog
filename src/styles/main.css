@@ -150,3 +150,13 @@
 .collapsed {
     height: var(--collapsedHeight);
 }
+
+figcaption {
+  text-align: center; /* 水平居中文本 */
+}
+
+figure {
+  display: flex;
+  flex-direction: column; /* 垂直排列图片和标题 */
+  align-items: center;    /* 水平居中图片和标题 */
+}
