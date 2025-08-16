@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "28996e05d7138a12",
+        "id": "f3198f61cf2bdc06",
         "type": "tabs",
         "children": [
           {
-            "id": "1f42d2a3da9fc634",
+            "id": "1436ebb29e545f41",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,22 +173,22 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "1f42d2a3da9fc634",
+  "active": "1436ebb29e545f41",
   "lastOpenFiles": [
-    "posts/imgs/20250813-2.jpeg",
-    "posts/out-of-your-comfort-zone.md",
-    "posts/imgs/20250811-4.jpeg",
-    "posts/minecraft-ctm-map-recommend.md",
-    "posts/geocaching-is-so-fun.md",
-    "posts/imgs/20250811-3.png",
-    "posts/imgs/20250811-4.png",
-    "posts/imgs/20250811-2.jpeg",
-    "posts/imgs/20250811-1.jpeg",
-    "posts/imgs/20250809-7.jpeg",
-    "posts/imgs/20250809-6.jpeg",
+    "posts/imgs/20250816-4.png",
+    "posts/imgs/20250816-3.png",
+    "posts/imgs/cover.jpeg",
+    "posts/imgs/20250816-2.png",
     "posts/imgs/20250809-5.jpeg",
-    "posts/imgs/20250809-4.jpeg",
-    "posts/imgs/20250809-3.jpeg",
+    "posts/imgs/20250809-6.jpeg",
+    "posts/imgs/20250809-7.jpeg",
+    "posts/imgs/20250811-1.jpeg",
+    "posts/imgs/20250811-2.jpeg",
+    "posts/imgs/20250811-4.png",
+    "posts/imgs/20250811-3.png",
+    "posts/out-of-your-comfort-zone.md",
+    "posts/geocaching-is-so-fun.md",
+    "posts/minecraft-ctm-map-recommend.md",
     "posts/fa-paper.md",
     "posts/markdown-extended.md",
     "spec/about.md",
