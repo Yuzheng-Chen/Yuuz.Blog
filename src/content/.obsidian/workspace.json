@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/what-did-ai-helped-me.md",
+                "file": "posts/what-ai-helped-me-with.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "what-did-ai-helped-me"
+              "title": "what-ai-helped-me-with"
+            }
+          }
+        ]
+      },
+      {
+        "id": "225ebaf450ade2da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96b87e4b077621aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/what-ai-helped-me-with.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "what-ai-helped-me-with"
             }
           }
         ]
@@ -40,13 +60,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/what-did-ai-helped-me.md",
+                "file": "posts/what-ai-helped-me-with.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of what-did-ai-helped-me"
+              "title": "Outline of what-ai-helped-me-with"
             }
           }
         ]
@@ -177,12 +197,15 @@
   "active": "1436ebb29e545f41",
   "lastOpenFiles": [
     "posts/out-of-your-comfort-zone.md",
-    "posts/what-did-ai-helped-me.md",
-    "posts/imgs/20250812-1.png",
-    "posts/imgs/20250812-0.png",
+    "posts/what-ai-helped-me-with.md",
+    "posts/imgs/20250902-1.jpeg",
+    "posts/geocaching-is-so-fun.md",
+    "posts/markdown-extended.md",
     "posts/minecraft-ctm-map-recommend.md",
     "spec/about.md",
     "spec/use.md",
+    "posts/imgs/20250812-1.png",
+    "posts/imgs/20250812-0.png",
     "posts/imgs/20250816-4.png",
     "posts/imgs/20250816-3.png",
     "posts/imgs/cover.jpeg",
@@ -190,10 +213,7 @@
     "posts/imgs/20250809-5.jpeg",
     "posts/imgs/20250809-6.jpeg",
     "posts/imgs/20250809-7.jpeg",
-    "posts/imgs/20250811-1.jpeg",
-    "posts/geocaching-is-so-fun.md",
     "posts/fa-paper.md",
-    "posts/markdown-extended.md",
     "posts/imgs.md",
     "examples/markdown.md",
     "examples/template/Template with Cover.md",
@@ -220,7 +240,6 @@
     "_posts/中文/Book Notes",
     "_posts/Whispers/in-the-quiet-moments.md",
     "_posts/Tales/reflections-in-the-mirror.md",
-    "_posts/Tales/it-was-a-dream.md",
-    "template/Default Front-matter.md"
+    "_posts/Tales/it-was-a-dream.md"
   ]
 }
