@@ -16,7 +16,7 @@
               "state": {
                 "file": "posts/what-ai-helped-me-with.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "what-ai-helped-me-with"
@@ -30,7 +30,7 @@
               "state": {
                 "file": "posts/android-is-becoming-like-ios.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "android-is-becoming-like-ios"
@@ -52,7 +52,7 @@
               "state": {
                 "file": "posts/what-ai-helped-me-with.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "what-ai-helped-me-with"

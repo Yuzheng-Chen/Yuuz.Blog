@@ -8,6 +8,6 @@
   "userIgnoreFilters": [
     "_data/"
   ],
-  "livePreview": true,
+  "livePreview": false,
   "defaultViewMode": "source"
 }

@@ -22,7 +22,7 @@ Google 的官方说法是提升安全、方便追责；但实际上呢，你说�
 - 🕵️**匿名 / 业余开发者**  
    很多开源软件的开发者并不愿意透露身份。但在新规之后，如果他们的软件想要被别人使用，就只能：要么交证件、承担隐私与合规风险，要么**失去在认证设备上的分发能力**。受制裁地区的作者甚至可能被卡在门外。
 - 📦**F-Droid 生态**  
-   F-Droid 是一个开源版本的 Google Play Store，提供很多开源软件的下载和更新。但上面的许多 App 没有“已验证开发者”的签名。在新规之后，这类软件基本就被判了死刑，用户即使愿意自担风险，也装不进去。F-Droid 的论坛的讨论已经炸了[^2]
+   F-Droid 是一个开源版本的 Google Play Store，提供很多开源软件的下载和更新。但上面的许多 App 没有“已验证开发者”的签名。在新规之后，这类软件基本就被判了死刑，用户即使愿意自担风险，也装不进去。[F-Droid 的论坛](https://forum.f-droid.org/t/google-will-require-developer-verification-to-install-android-apps-including-sideloading/33123)的讨论已经吵翻了。
 - 🚫 **“灰色软件”与去广告工具**  
    像 **NewPipe/PipePipe**（第三方 YouTube/Bilibili 客户端）、**ReVanced**（YouTube 去广告补丁）、**AdAway**（系统级去广告），以及自己用 LSPatch 打包的 TikTok 破解版，本来就和平台条款冲突。想在官方生态拿“合法签名”？几乎不可能。
 - 👤**普通用户**  
@@ -43,7 +43,7 @@ Google 的官方说法是提升安全、方便追责；但实际上呢，你说�
 
 ## 如果那一天真的到来
 
-因为现在新规还没生效，所以我现在还在观望，说不定未来会有变化。对我来说，像是PipePipe这一类的软件都是我必备的软件。假如这套机制落到我所在地区、彻底影响我的用机方式，我会动手换 ROM。
+因为现在新规还没生效，所以我现在还在观望，说不定未来会有变化。对我来说，像是 PipePipe 这一类的软件都是我必备的软件。假如这套机制落到我所在地区、彻底影响我的用机方式，我会动手换 ROM。
 
 我现在用的手机是一台 Pixel 9a，Pixel 刷机相对来说算是比较容易的：解锁/回刷流程成熟、社区体量大、文档齐全。很多第三方 ROM 都优先支持 Pixel。
 
@@ -58,4 +58,3 @@ Google 的官方说法是提升安全、方便追责；但实际上呢，你说�
 总之，Android 不是一天变成今天这样的。AOSP 没有“关门”，但门把手的权力正在集中。如果你也在意这个变化，不妨先从一次认真备份开始；当你发现“安装”的权利轮不到你做主时，或许就是该换 ROM 的时候了。
 
 [^1]: [Android Developers Blog: A new layer of security for certified Android devices](https://android-developers.googleblog.com/2025/08/elevating-android-security.html)
-[^2]: [Google will require developer verification to install Android apps, including sideloading - General - F-Droid Forum](https://forum.f-droid.org/t/google-will-require-developer-verification-to-install-android-apps-including-sideloading/33123)
