@@ -4,61 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f3198f61cf2bdc06",
+        "id": "ee4853c9d2976ac0",
         "type": "tabs",
-        "dimension": 50.09398496240601,
         "children": [
           {
-            "id": "1436ebb29e545f41",
+            "id": "6a0dc2fb92d1c645",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/what-ai-helped-me-with.md",
+                "file": "posts/geocaching-is-so-fun.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "what-ai-helped-me-with"
+              "title": "geocaching-is-so-fun"
             }
           },
           {
-            "id": "a9e71cefcb691a1a",
+            "id": "6ebb98833e770c99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/android-is-becoming-like-ios.md",
+                "file": "posts/minecraft-maps-translate.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "android-is-becoming-like-ios"
+              "title": "minecraft-maps-translate"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "225ebaf450ade2da",
-        "type": "tabs",
-        "dimension": 49.90601503759399,
-        "children": [
-          {
-            "id": "96b87e4b077621aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/what-ai-helped-me-with.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "what-ai-helped-me-with"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -77,13 +55,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/android-is-becoming-like-ios.md",
+                "file": "posts/minecraft-maps-translate.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of android-is-becoming-like-ios"
+              "title": "Outline of minecraft-maps-translate"
             }
           }
         ]
@@ -211,19 +189,23 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "a9e71cefcb691a1a",
+  "active": "6ebb98833e770c99",
   "lastOpenFiles": [
-    "posts/what-ai-helped-me-with.md",
-    "posts/android-is-becoming-like-ios.md",
-    "posts/imgs/20250903-1.png",
-    "posts/out-of-your-comfort-zone.md",
-    "posts/geocaching-is-so-fun.md",
-    "posts/fa-paper.md",
+    "posts/minecraft-maps.md",
+    "posts/minecraft-maps-translate.md",
     "posts/minecraft-ctm-map-recommend.md",
-    "posts/imgs/20250902-1.jpeg",
-    "posts/markdown-extended.md",
-    "spec/about.md",
+    "posts/out-of-your-comfort-zone.md",
+    "posts/puzzle-games-I-played-recently.md",
+    "posts/geocaching-is-so-fun.md",
     "spec/use.md",
+    "Untitled",
+    "posts/android-is-becoming-like-ios.md",
+    "posts/fa-paper.md",
+    "posts/markdown-extended.md",
+    "posts/what-ai-helped-me-with.md",
+    "posts/imgs/20250903-1.png",
+    "posts/imgs/20250902-1.jpeg",
+    "spec/about.md",
     "posts/imgs/20250812-1.png",
     "posts/imgs/20250812-0.png",
     "posts/imgs/20250816-4.png",
@@ -254,9 +236,6 @@
     "assets/imgs/20241025-12.png.~tmp",
     "_posts/Musics/using-scales-to-build-harmony-advanced-concepts-in-music-theory.md",
     "samples/computer-science/note/theme-shoka-doc/special.md",
-    "samples/elements.md",
-    "_posts/中文/Book Notes",
-    "_posts/Whispers/in-the-quiet-moments.md",
-    "_posts/Tales/reflections-in-the-mirror.md"
+    "samples/elements.md"
   ]
 }
