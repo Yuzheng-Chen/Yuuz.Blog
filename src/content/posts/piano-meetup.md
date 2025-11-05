@@ -84,7 +84,7 @@ draft: false
 在这样的氛围里，即使是复杂的作品，也能被真正地感受和吸收。
 
 思来想去，我最后选了我最喜欢的一首钢琴曲之一——[Fred Hersch](https://en.wikipedia.org/wiki/Fred_Hersch) 的《[The Orb](https://www.youtube.com/watch?v=UMw5z4uw6To)》。  
-它难度适中，一个月能练好；而且不是知名曲目，我也想通过演奏把它推荐给大家，让他们感受到 Fred Hersch 对位的魅力。
+它难度不高，一个月够练好；而且不是知名曲目，我也想通过演奏把它推荐给大家，让他们感受到 Fred Hersch 对位的魅力。
 
 ---
 
