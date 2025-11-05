@@ -1,16 +1,13 @@
 ---
 title: 钢琴角
 published: 2025-11-05
-description: 这两个月去了两次在英国Morecambe的钢琴Meetup。很有意思的活动。
-image: ./imgs/cover.jpeg
+description: 记录一下这两个月去了两次在英国Morecambe的钢琴Meetup。很有意思的活动。
+image: ./imgs/20251105-1.jpeg
 tags:
-  - Fuwari
-  - Blogging
-  - Customization
-category: Guides
-draft: true
+  - 见闻
+category: 日志
+draft: false
 ---
-
 很久没有更新了，今天就碎碎念记录一下这两个月参加的两次 Local Piano Meetup。  
 虽然这种内容在 Blog 上大概没什么人想看，但自架 Blog 的好处就是——我想写什么就写什么（笑）。
 
@@ -40,6 +37,11 @@ draft: true
 伯伯笑了笑说：“大家都是。”  
 旁边另一位伯伯接着说：“那你下次得准备好一首。”
 
+<figure>
+  <img src="../imgs/20251105-2.jpg" alt="活动现场" width="500">
+  <figcaption>活动现场</figcaption>
+</figure>
+
 活动开始，大家轮流上台演奏。  
 能听出来，有人挺厉害，也有不少像是初学者。许多曲子听上去带着练习的痕迹，但大家都非常自信。  
 演奏内容以古典为主，少部分是爵士，还有一位老奶奶弹唱得非常好听。
@@ -65,6 +67,13 @@ draft: true
 
 ---
 
+<figure>
+  <img src="../imgs/20251105-1.jpg" alt="回家的路上" width="500">
+  <figcaption>回家的路上</figcaption>
+</figure>
+
+回家的路上，天气是晴朗的。就像感觉我对这个世界的感知也被刷新了一样。Refreshing。
+
 回家后，我开始准备下个月要练的曲子（下次活动是一个月之后）。  
 原本我在练自己 Cover 的那首《Lightship》，但一来总觉得在这种场合弹 JPOP 有点突兀，二来我也有别的曲目想尝试。
 
@@ -79,8 +88,13 @@ draft: true
 
 ---
 
+<figure>
+  <img src="../imgs/20251105-1.png" alt="自己架手机拍的照片" width="300">
+  <figcaption>自己架手机拍的照片</figcaption>
+</figure>
+
 之后的一切都很顺利。  
-一个月后的演奏虽然第一次上台有点紧张，也弹错了几处，但我觉得情感还是传达到了。  
+一个月后的演奏，《The Orb》，虽然第一次上台有点紧张，也弹错了几处，但我觉得情感还是传达到了（我其实有录我自己的演奏，但是录制效果不太好，大家就意会一下啦）。  
 原以为 Fred Hersch 在这里不太有名，没想到那位弹爵士的伯伯不仅认识他，还是他的笔友。
 
 伯伯说，早年 Fred Hersch 来英国演出时，他留下了联系方式。后来他们经常写信讨论音乐问题，而 Fred Hersch 总是认真回复。  
