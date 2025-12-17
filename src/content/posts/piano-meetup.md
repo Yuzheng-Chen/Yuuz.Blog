@@ -1,7 +1,7 @@
 ---
 title: 钢琴角
 published: 2025-11-05
-description: 记录一下这两个月去了两次在英国Morecambe的钢琴Meetup。很有意思的活动。
+description: 记录一下这两个月去了两次在英国 Morecambe 的钢琴 Meetup。很有意思的活动。
 image: ./imgs/20251105-1.jpeg
 tags:
   - 见闻

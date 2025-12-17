@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ee4853c9d2976ac0",
+        "id": "0553cc0804724282",
         "type": "tabs",
         "children": [
           {
-            "id": "6a0dc2fb92d1c645",
+            "id": "e65b251370b4dccf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/geocaching-is-so-fun.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "geocaching-is-so-fun"
-            }
-          },
-          {
-            "id": "6ebb98833e770c99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/what-ai-helped-me-with.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "what-ai-helped-me-with"
-            }
-          },
-          {
-            "id": "f412302be3c2e057",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/piano-meetup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "piano-meetup"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,13 +36,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/piano-meetup.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of piano-meetup"
+              "title": "Outline"
             }
           }
         ]
@@ -203,32 +169,33 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "f412302be3c2e057",
+  "active": "e65b251370b4dccf",
   "lastOpenFiles": [
+    "posts/minecraft-maps-translate.md",
+    "posts/geocaching-is-so-fun.md",
+    "posts/what-ai-helped-me-with.md",
     "posts/out-of-your-comfort-zone.md",
     "posts/piano-meetup.md",
+    "posts/minecraft-maps.md",
+    "posts/puzzle-games-I-played-recently.md",
+    "posts/a-little-more.md",
+    "posts/markdown-extended.md",
+    "Untitled",
+    "posts/android-is-becoming-like-ios.md",
+    "posts/fa-paper.md",
+    "posts/minecraft-ctm-map-recommend.md",
+    "posts/imgs/20250816-3.png",
     "posts/imgs/20251105-1.png",
     "posts/imgs/20251105-1.jpeg",
     "posts/imgs/20251105-2.jpg",
     "posts/imgs/20251105-1.jpg",
-    "posts/what-ai-helped-me-with.md",
-    "posts/minecraft-maps-translate.md",
-    "posts/minecraft-maps.md",
-    "posts/minecraft-ctm-map-recommend.md",
-    "posts/puzzle-games-I-played-recently.md",
-    "posts/geocaching-is-so-fun.md",
     "spec/use.md",
-    "Untitled",
-    "posts/android-is-becoming-like-ios.md",
-    "posts/fa-paper.md",
-    "posts/markdown-extended.md",
     "posts/imgs/20250903-1.png",
     "posts/imgs/20250902-1.jpeg",
     "spec/about.md",
     "posts/imgs/20250812-1.png",
     "posts/imgs/20250812-0.png",
     "posts/imgs/20250816-4.png",
-    "posts/imgs/20250816-3.png",
     "posts/imgs.md",
     "examples/markdown.md",
     "examples/template/Template with Cover.md",
