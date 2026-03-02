@@ -58,17 +58,17 @@ export const profileConfig: ProfileConfig = {
 	name: "Yuuz (Yuzheng Chen)",
 	bio: "人机交互（HCI）硕士，古典、爵士钢琴爱好者，目前居住在英国。",
 	links: [
-		{
-			name: "Twitter",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
+		//{
+		//	name: "Twitter",
+		//	icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com",
-		},
+		//	url: "https://twitter.com",
+		//},
 		{
 			name: "Steam",
 			icon: "fa6-brands:steam",
-			url: "https://store.steampowered.com",
+			url: "https://steamcommunity.com/id/yuuzgame/",
 		},
 		{
 			name: "GitHub",
